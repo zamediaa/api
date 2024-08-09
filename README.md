@@ -60,6 +60,8 @@ This project guides you through installing Python, setting up the required depen
      ```bash
      python main.py
      ```
+### Demo
+     https://github.com/user-attachments/assets/ad8b87bb-8944-41bc-b236-1208418d52b6
 
 ## Conclusion
 
